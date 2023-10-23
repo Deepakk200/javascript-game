@@ -1,0 +1,23 @@
+*{
+    margin : 0;
+    padding : 0;
+}
+#rere{
+    display: flex;
+    padding: 10%;
+}
+.red{
+   height: 100px;
+   width: 100px;
+   margin: 3%; 
+   display: flex;
+}
+#red1{
+background-color: red;
+}
+#green{
+background-color: greenyellow;
+}
+#yellow{
+background-color: yellow;
+}
